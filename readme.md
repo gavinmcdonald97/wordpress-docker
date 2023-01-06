@@ -15,13 +15,15 @@ Version: 0.1.1
 - Make any changes to .env
 - Run the following commands, starting in project root:
 
-    cd cli
-    sudo chmod +x ./add-hosts.sh
-    sudo chmod +x ./create-cert.sh
-    sudo ./add-hosts.sh
-    sudo ./create-cert.sh
-    cd ..
-    docker-compose up -d
+```
+cd cli
+sudo chmod +x ./add-hosts.sh
+sudo chmod +x ./create-cert.sh
+sudo ./add-hosts.sh
+sudo ./create-cert.sh
+cd ..
+docker-compose up -d
+```
 
 ## Issues
 
