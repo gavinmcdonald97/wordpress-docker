@@ -1,0 +1,6 @@
+.env
+certs
+db
+wordpress
+wp-content
+dbimport.sql
